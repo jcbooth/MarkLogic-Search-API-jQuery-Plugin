@@ -1,0 +1,43 @@
+
+body { 
+font-family:Helvetica,sans-serif;
+font-size:13px;
+}
+
+span {
+padding:10px;
+}
+
+#main {
+background-color:#EEEEEE;
+border:2px solid #92b4d6;
+padding: 20px;
+width:100%;
+height:100%; 
+}
+
+
+#searchbox {
+width:400px;
+height:36px;
+border: 2px solid #CCCCCC;
+padding: 5px 5px 5px 5px;
+font-family: Helvetica, sans-serif;
+font-size: medium;
+
+}
+
+#search {
+margin-left:auto;
+margin-right:auto;
+width: 40%;
+padding: 20px;
+}
+
+#results {
+border:2px solid #92b4d6;
+padding: 20px;
+margin-left:auto;
+margin-right:auto;
+width: 60%;
+}

@@ -1,6 +1,6 @@
 xquery version "1.0-ml";
 
-xdmp:set-response-content-type ("html"),
+xdmp:set-response-content-type("html"),
 
 <html>
 <head>
